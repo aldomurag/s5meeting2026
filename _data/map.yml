@@ -1,7 +1,9 @@
-center: -33.774207, 151.114803
+center: -33.86665280495606, 151.20844176425587
 zoom: 15
 # Add one or more markers; for a single venue, just one marker is fine
 markers:
+  - title: Macquarie University CBD
+    latlng: -33.86665280495606, 151.20844176425587
   - title: Macquarie University
     latlng: -33.77421523063759, 151.11467063124732
   - title: The University of Sydney
